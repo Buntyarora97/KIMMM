@@ -1,0 +1,88 @@
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"1799.10","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"1799.10","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"1799.10","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"1799.10","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"1799.10","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV20260216458886","amount":"3598.20","buyer_name":"Gurmeet Singh Sandhu","email":"flpsandhu@yahoo.in","phone":"9463333000","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV20260216458886","amount":"3598.20","buyer_name":"Gurmeet Singh Sandhu","email":"flpsandhu@yahoo.in","phone":"9463333000","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"3598.20","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV20260216DCB4A1","amount":"3598.20","buyer_name":"Gurmeet Singh Sandhu","email":"flpsandhu@yahoo.in","phone":"9463333000","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV20260216DCB4A1","amount":"3598.20","buyer_name":"Gurmeet Singh Sandhu","email":"flpsandhu@yahoo.in","phone":"9463333000","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}
+HTTP Code: 403
+Response: {
+    "success": false,
+    "message": "You do not have permission to perform this action."
+}
+
+Curl Error: 
+Payload: {"purpose":"Livvra Order LIV202602167E8E1B","amount":"5397.30","buyer_name":"Admin Office gurukull","email":"executive.gurukull@gmail.com","phone":"09855538192","redirect_url":"https:\/\/livvra.in\/payment-success.php","webhook":"https:\/\/livvra.in\/instamojo-webhook.php","allow_repeated_payments":false}

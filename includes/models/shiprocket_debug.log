@@ -1,0 +1,858 @@
+2026-01-15 06:31:36
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:31:38
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:08
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:11
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:18
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:19
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:20
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:21
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:21
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:21
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:32:22
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:34:12
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:35:37
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:35:43
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:40:28
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:40:30
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 06:40:32
+{"message":"Wrong number of segments","status_code":401}
+
+2026-01-15 07:07:29
+HTTP:422
+{"message":"Oops! Invalid Data.","errors":{"billing_last_name":["validation.present"],"billing_pincode":["The billing pincode must be 6 digits.","Invalid Pincode"]},"status_code":422}
+
+2026-01-15 07:07:32
+HTTP:422
+{"message":"Oops! Invalid Data.","errors":{"billing_last_name":["validation.present"],"billing_pincode":["The billing pincode must be 6 digits.","Invalid Pincode"]},"status_code":422}
+
+2026-01-15 08:03:55
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => Hg#Xdz@CTMs13IX*1v7%&amwxLIOQn8V
+        )
+
+)
+
+
+2026-01-15 08:03:55
+Array
+(
+    [LOGIN_RESPONSE] => {"message":"Invalid email and password combination","status_code":403}
+    [HTTP] => 403
+)
+
+
+2026-01-15 08:05:59
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => Hg#Xdz@CTMs13IX*1v7%&amwxLIOQn8V
+        )
+
+)
+
+
+2026-01-15 08:05:59
+Array
+(
+    [LOGIN_RESPONSE] => {"message":"Invalid email and password combination","status_code":403}
+    [HTTP] => 403
+)
+
+
+2026-01-15 08:06:39
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:06:39
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI4Mzk5LCJqdGkiOiJWTGhJQ3NSZk1ib0plWG9ZIiwiaWF0IjoxNzY4NDY0Mzk5LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NDM5OSwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.x7dEx6QLjueNzQIG7AxvLdSWWc-SS9d2ADebgCP2D7w"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:06:39
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011516C347
+            [order_date] => 2026-01-15 08:06
+            [pickup_location] => warehouse
+            [billing_customer_name] => bunty
+            [billing_last_name] => .
+            [billing_address] => cdc
+            [billing_city] => sirsa
+            [billing_state] => haryana
+            [billing_pincode] => 012055
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => digitaldots11@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Kumkumadi Beauty Oil
+                            [sku] => SKU-1
+                            [units] => 1
+                            [selling_price] => 1999
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 1999
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:06:39
+Array
+(
+    [ORDER_RESPONSE] => {"message":"Oops! Invalid Data.","errors":{"billing_pincode":["Invalid Pincode"]},"status_code":422}
+    [HTTP] => 422
+)
+
+
+2026-01-15 08:06:40
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:06:40
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI4NDAwLCJqdGkiOiJUN1I3SmFwbWlsbjNOMkVBIiwiaWF0IjoxNzY4NDY0NDAwLCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NDQwMCwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.-a1kUgeNRtxFX6kD3oUpGMhQpUhTHhV4AucIYAcfmIM"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:06:40
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011516C347
+            [order_date] => 2026-01-15 08:06
+            [pickup_location] => warehouse
+            [billing_customer_name] => bunty
+            [billing_last_name] => .
+            [billing_address] => cdc
+            [billing_city] => sirsa
+            [billing_state] => haryana
+            [billing_pincode] => 012055
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => digitaldots11@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Kumkumadi Beauty Oil
+                            [sku] => SKU-1
+                            [units] => 1
+                            [selling_price] => 1999
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 1999
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:06:40
+Array
+(
+    [ORDER_RESPONSE] => {"message":"Oops! Invalid Data.","errors":{"billing_pincode":["Invalid Pincode"]},"status_code":422}
+    [HTTP] => 422
+)
+
+
+2026-01-15 08:09:25
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:09:25
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI4NTY1LCJqdGkiOiJSa2FxSHFXbXZTdU5GTEN1IiwiaWF0IjoxNzY4NDY0NTY1LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NDU2NSwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.srorA8sr0Xj8EpixssYdivY8D8ntGXsJWcJfCRnRZfI"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:09:25
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011516C347
+            [order_date] => 2026-01-15 08:09
+            [pickup_location] => warehouse
+            [billing_customer_name] => bunty
+            [billing_last_name] => .
+            [billing_address] => cdc
+            [billing_city] => sirsa
+            [billing_state] => haryana
+            [billing_pincode] => 12055
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => digitaldots11@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Kumkumadi Beauty Oil
+                            [sku] => SKU-1
+                            [units] => 1
+                            [selling_price] => 1999
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 1999
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:09:25
+Array
+(
+    [ORDER_RESPONSE] => {"message":"Oops! Invalid Data.","errors":{"billing_pincode":["The billing pincode must be 6 digits.","Invalid Pincode"]},"status_code":422}
+    [HTTP] => 422
+)
+
+
+2026-01-15 08:09:27
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:09:27
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI4NTY3LCJqdGkiOiJJYmFqdTQxbUlUcWM3OUcwIiwiaWF0IjoxNzY4NDY0NTY3LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NDU2NywiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.pnT7xdRh8j_BxkdHKtF7bvFRzH4_gOYJS-0lggrYBjo"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:09:27
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011516C347
+            [order_date] => 2026-01-15 08:09
+            [pickup_location] => warehouse
+            [billing_customer_name] => bunty
+            [billing_last_name] => .
+            [billing_address] => cdc
+            [billing_city] => sirsa
+            [billing_state] => haryana
+            [billing_pincode] => 12055
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => digitaldots11@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Kumkumadi Beauty Oil
+                            [sku] => SKU-1
+                            [units] => 1
+                            [selling_price] => 1999
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 1999
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:09:27
+Array
+(
+    [ORDER_RESPONSE] => {"message":"Oops! Invalid Data.","errors":{"billing_pincode":["The billing pincode must be 6 digits.","Invalid Pincode"]},"status_code":422}
+    [HTTP] => 422
+)
+
+
+2026-01-15 08:15:32
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:15:32
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI4OTMyLCJqdGkiOiIxRkxnQlBJRmtOVE5paXpwIiwiaWF0IjoxNzY4NDY0OTMyLCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NDkzMiwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.C2QrE1d-fhC187ClqfDkwHYFb3r5S7bDbmR7kccuoF0"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:15:32
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011516C347
+            [order_date] => 2026-01-15 08:15
+            [pickup_location] => warehouse
+            [billing_customer_name] => bunty
+            [billing_last_name] => .
+            [billing_address] => cdc
+            [billing_city] => sirsa
+            [billing_state] => haryana
+            [billing_pincode] => 151001
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => digitaldots11@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Kumkumadi Beauty Oil
+                            [sku] => SKU-1
+                            [units] => 1
+                            [selling_price] => 1999
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 1999
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:15:32
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1135503806,"channel_order_id":"LIV2026011516C347","shipment_id":1131861137,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false,"packaging_box_error":""}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:15:34
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:15:34
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI4OTM0LCJqdGkiOiJLMDRzWlRiY1JmMFZFd1RRIiwiaWF0IjoxNzY4NDY0OTM0LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NDkzNCwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.dFtx2NzeCVXCiQ76--E8CrLH0Ia4AYuq0QmLm5eiybU"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:15:34
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011516C347
+            [order_date] => 2026-01-15 08:15
+            [pickup_location] => warehouse
+            [billing_customer_name] => bunty
+            [billing_last_name] => .
+            [billing_address] => cdc
+            [billing_city] => sirsa
+            [billing_state] => haryana
+            [billing_pincode] => 151001
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => digitaldots11@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Kumkumadi Beauty Oil
+                            [sku] => SKU-1
+                            [units] => 1
+                            [selling_price] => 1999
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 1999
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:15:34
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1135503806,"channel_order_id":"LIV2026011516C347","shipment_id":1131861137,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:17:24
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:17:24
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI5MDQ0LCJqdGkiOiJPN1U3ZzBSMnFmT2QxUG5zIiwiaWF0IjoxNzY4NDY1MDQ0LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NTA0NCwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.9icxqwLTXAMlCzAvjrdPMsgDINh9tHoJQVtPPRCHaEw"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:17:24
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011093FEFB
+            [order_date] => 2026-01-15 08:17
+            [pickup_location] => warehouse
+            [billing_customer_name] => kuldeep
+            [billing_last_name] => .
+            [billing_address] => gfxhjk
+            [billing_city] => gfcchjk
+            [billing_state] => Punjab
+            [billing_pincode] => 125111
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => bytebhuna@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Dy-B-Fuel RAS
+                            [sku] => SKU-2
+                            [units] => 1
+                            [selling_price] => 655
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 655
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:17:24
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1135508227,"channel_order_id":"LIV2026011093FEFB","shipment_id":1131865557,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false,"packaging_box_error":""}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:27:08
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:27:08
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI5NjI4LCJqdGkiOiJEcXp6UEFYbVVucnVGWlNOIiwiaWF0IjoxNzY4NDY1NjI4LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NTYyOCwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.eiiACMW-mdK2EvJbBS6p03TExVR-0PnSTqEWduNNl0Q"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:27:08
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV2026011093FEFB
+            [order_date] => 2026-01-15 08:27
+            [pickup_location] => warehouse
+            [billing_customer_name] => kuldeep
+            [billing_last_name] => .
+            [billing_address] => gfxhjk
+            [billing_city] => gfcchjk
+            [billing_state] => Punjab
+            [billing_pincode] => 125111
+            [billing_country] => India
+            [billing_phone] => 9729621995
+            [billing_email] => bytebhuna@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => LIVVRA Dy-B-Fuel RAS
+                            [sku] => SKU-2
+                            [units] => 1
+                            [selling_price] => 655
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 655
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:27:08
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1135508227,"channel_order_id":"LIV2026011093FEFB","shipment_id":1131865557,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:27:24
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-15 08:27:24
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5MzI5NjQ0LCJqdGkiOiJhYWdWY2lEMjhad0lsZE40IiwiaWF0IjoxNzY4NDY1NjQ0LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODQ2NTY0NCwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.PE0Gf5PRZlrPnDhfqjGwFglhnF2AH2-FUlW9nlnCfIY"}
+    [HTTP] => 200
+)
+
+
+2026-01-15 08:27:24
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV20260115B2EF07
+            [order_date] => 2026-01-15 08:27
+            [pickup_location] => warehouse
+            [billing_customer_name] => Abhay Singh
+            [billing_last_name] => .
+            [billing_address] => Back Side Sewa Sadan Dharamshala
+            [billing_city] => Malout
+            [billing_state] => Punjab
+            [billing_pincode] => 152107
+            [billing_country] => India
+            [billing_phone] => 09888761540
+            [billing_email] => asingh58195@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Yeast-Based Protein.
+                            [sku] => SKU-3
+                            [units] => 1
+                            [selling_price] => 3499
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 3499
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-15 08:27:25
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1135527057,"channel_order_id":"LIV20260115B2EF07","shipment_id":1131884386,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false,"packaging_box_error":""}
+    [HTTP] => 200
+)
+
+
+2026-01-17 07:11:33
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-17 07:11:33
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5NDk3ODkzLCJqdGkiOiJrM1RLM1NXeDFNV0Vyd2o1IiwiaWF0IjoxNzY4NjMzODkzLCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODYzMzg5MywiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.A2UqM9d6pDLvzwp0TVJWgKaXQE6B76C421LmEmFCu3s"}
+    [HTTP] => 200
+)
+
+
+2026-01-17 07:11:33
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV20260115B2EF07
+            [order_date] => 2026-01-17 07:11
+            [pickup_location] => warehouse
+            [billing_customer_name] => Abhay Singh
+            [billing_last_name] => .
+            [billing_address] => Back Side Sewa Sadan Dharamshala
+            [billing_city] => Malout
+            [billing_state] => Punjab
+            [billing_pincode] => 152107
+            [billing_country] => India
+            [billing_phone] => 09888761540
+            [billing_email] => asingh58195@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Yeast-Based Protein.
+                            [sku] => SKU-3
+                            [units] => 1
+                            [selling_price] => 3499
+                        )
+
+                )
+
+            [payment_method] => COD
+            [sub_total] => 3499
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-17 07:11:34
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1135527057,"channel_order_id":"LIV20260115B2EF07","shipment_id":1131884386,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false}
+    [HTTP] => 200
+)
+
+
+2026-01-17 08:33:29
+Array
+(
+    [LOGIN_PAYLOAD] => Array
+        (
+            [email] => buntychhabra02@gmail.com
+            [password] => 8TvDeTgZ9XD5n4yg&h61#lhH1n7^Ullj
+        )
+
+)
+
+
+2026-01-17 08:33:29
+Array
+(
+    [LOGIN_RESPONSE] => {"company_id":8755915,"created_at":"2025-12-31 15:35:56","email":"buntychhabra02@gmail.com","first_name":"API","id":9015422,"last_name":"USER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjkwMTU0MjIsInNvdXJjZSI6InNyLWF1dGgtaW50IiwiZXhwIjoxNzY5NTAyODA5LCJqdGkiOiJ1TGxqZHdmMDJqWmJ3VVJvIiwiaWF0IjoxNzY4NjM4ODA5LCJpc3MiOiJodHRwczovL3NyLWF1dGguc2hpcHJvY2tldC5pbi9hdXRob3JpemUvdXNlciIsIm5iZiI6MTc2ODYzODgwOSwiY2lkIjo4NzU1OTE1LCJ0YyI6MzYwLCJ2ZXJib3NlIjpmYWxzZSwidmVuZG9yX2lkIjowLCJ2ZW5kb3JfY29kZSI6IiJ9.MMd7MS53O2Idwk070tObLiDlliHflYqWgTsBlbTeQTE"}
+    [HTTP] => 200
+)
+
+
+2026-01-17 08:33:29
+Array
+(
+    [ORDER_PAYLOAD] => Array
+        (
+            [order_id] => LIV20260117911057
+            [order_date] => 2026-01-17 08:33
+            [pickup_location] => warehouse
+            [billing_customer_name] => Dr Manjit Kaur
+            [billing_last_name] => .
+            [billing_address] => Sandhu Dental Clinic, O/S Professor Colony, Mallanwala Road
+            [billing_city] => Ferozepur
+            [billing_state] => Punjab
+            [billing_pincode] => 152002
+            [billing_country] => India
+            [billing_phone] => 7009489003
+            [billing_email] => sandhudentalclinicfzr@gmail.com
+            [shipping_is_billing] => 1
+            [order_items] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => Dy-B-Fuel Ras
+                            [sku] => SKU-6
+                            [units] => 1
+                            [selling_price] => 240
+                        )
+
+                )
+
+            [payment_method] => Prepaid
+            [sub_total] => 240
+            [length] => 10
+            [breadth] => 10
+            [height] => 10
+            [weight] => 0.5
+        )
+
+)
+
+
+2026-01-17 08:33:30
+Array
+(
+    [ORDER_RESPONSE] => {"order_id":1138825166,"channel_order_id":"LIV20260117911057","shipment_id":1135182031,"status":"NEW","status_code":1,"onboarding_completed_now":0,"awb_code":"","courier_company_id":"","courier_name":"","new_channel":false,"packaging_box_error":""}
+    [HTTP] => 200
+)
+
+
