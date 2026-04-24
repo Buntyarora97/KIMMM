@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# blogs.php → blog.php
+RewriteRule ^blogs\.php$ blog.php [R=301,L]
+
+# Existing files/folders skip
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Product slug ✅ YE THEEK HAI
+RewriteRule ^([a-z0-9-]+)$ product-detail.php?slug=$1 [QSA,L]
+
+# Fallback
+RewriteRule ^ index.php [L,QSA]
